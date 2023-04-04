@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivank
-- 👀 I’m interested in always learning new things about.
-- 🌱 I’m currently learning Swift and DaVinci Resolve 18.
-- 💞️ Let's Collab
+- 👀 I’m always interested in learning new things.
+- 🌱 Currently learning Swift and DaVinci Resolve 18.
+- 💞️ Ready to Collab
 - 📫 Reach me through officialshivaank001@gmail.com
 
 <!---
