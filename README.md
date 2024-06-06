@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://x.com/iamshivaank](https://x.com/iamshivaank)
 
-- 💬 Ask me about **MongoDB, React Native**
+- 💬 Ask me about **Machine Learning, Python,MongoDB**
 
 - 📫 How to reach me **officialshivaank001@gmail.com**
 
