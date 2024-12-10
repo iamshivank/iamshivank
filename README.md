@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamshivaank" target="blank"><img src="https://img.shields.io/twitter/follow/iamshivaank?logo=twitter&style=for-the-badge" alt="iamshivaank" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Android Developement**
+- 🌱 I’m currently learning **Android Developement, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamshivank?tab=repositories](https://github.com/iamshivank?tab=repositories)
 
 - 📝 I regularly write articles on [https://x.com/iamshivaank](https://x.com/iamshivaank)
 
-- 💬 Ask me about **Machine Learning, Python,MongoDB**
+- 💬 Ask me about **Machine Learning,Full Stack Developement**
 
 - 📫 How to reach me **officialshivaank001@gmail.com**
 
